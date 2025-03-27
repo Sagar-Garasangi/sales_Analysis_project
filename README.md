@@ -47,4 +47,8 @@ Visualizations
 
 Pie Chart: Sales distribution across branches and cities.
 Bar Chart: Product sales comparison, gender-based sales distribution, and average order value.
+
+Conclusion
+
+This project demonstrates my ability to analyze real-world sales data, extract meaningful insights, and visualize the results effectively. It showcases my skills in data cleaning, data visualization, and exploratory data analysis
 Line Chart: Monthly sales trend visualization.
