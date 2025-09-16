@@ -5,11 +5,11 @@ The analysis was performed using Python, Pandas, and Matplotlib.
 Project Overview
 
 In this project, I explored a supermarket sales dataset to answer key business questions such as:
-✅ Which branch generates the highest sales?
-✅ Which product line contributes the most to total revenue?
-✅ How do sales vary between genders and customer types?
-✅ What is the average order value across branches?
-✅ How is tax distributed among different product lines?
+- Which branch generates the highest sales?
+- Which product line contributes the most to total revenue?
+- How do sales vary between genders and customer types?
+- What is the average order value across branches?
+- How is tax distributed among different product lines?
 
 Dataset Information
 
